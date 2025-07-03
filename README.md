@@ -15,10 +15,10 @@
 
 ## 📊 Featured Projects
 
-### 📌 [Telco Customer Churn Prediction](https://github.com/BrianRono7/Phase_3_Project))
+### 📌 [Telco Customer Churn Prediction](https://github.com/BrianRono7/Phase_3_Project)
 > A machine learning project to predict customer churn using classification models (Logistic Regression, Random Forest, XGBoost). Includes EDA, preprocessing, model evaluation, and deployment via Streamlit.
 
-### 🎥 [MovieLens Recommendation System](https://github.com/BrianRono7/Phase_4_Project))
+### 🎥 [MovieLens Recommendation System](https://github.com/BrianRono7/Phase_4_Project)
 > Built collaborative filtering and content-based filtering systems using the MovieLens dataset. Includes SVD and cosine similarity methods.
 
 ### 💰 [Money Manager (Personal Finance Insights)](https://github.com/your-username/money-manager-insights)
