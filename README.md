@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Brian Rono!
 
-🎓 Data Scientist | 🧠 Machine Learning Enthusiast | 🚀 Deep Learning Explorer | 🌍 Passionate about AI for Africa
+Data Scientist | Machine Learning Enthusiast | Deep Learning Explorer | Passionate about AI for Africa
 
 ---
 
@@ -40,14 +40,14 @@
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=BrianRono7&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BrianRono7&layout=compact&theme=radical)
 
 ---
 
 ## 🔗 Let's Connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
-- 📬 [Email](mailto:yourname@email.com)
+- 💼 [LinkedIn](linkedin.com/in/brian-rono)
+- 📬 [Email](engbriankrono@email.com)
 - 🌐 [Portfolio Website](https://your-website.com)
 
