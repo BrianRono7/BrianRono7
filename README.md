@@ -47,7 +47,7 @@ Data Scientist | Machine Learning Enthusiast | Deep Learning Explorer | Passiona
 
 ## 🔗 Let's Connect
 
-- 💼 [LinkedIn](linkedin.com/in/brian-rono)
+- 💼 [LinkedIn](https://www.linkedin.com/in/brian-rono)
 - 📬 [Email](engbriankrono@email.com)
 - 🌐 [Portfolio Website](https://your-website.com)
 
