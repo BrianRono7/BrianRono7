@@ -15,6 +15,10 @@ Data Scientist | Machine Learning Enthusiast | Deep Learning Explorer | Passiona
 
 ## 📊 Featured Projects
 
+### 🌾 [MavunoSasa – Smart Harvest Decisions](https://kenyafoodpricewarningsystem.streamlit.app/)
+> **MavunoSasa** is a predictive platform that empowers farmers with early warnings on food price spikes, enabling smarter decisions, timely interventions, and improved food security in Africa.  
+> **GitHub Repository:** [Capstone Project](https://github.com/BrianRono7/Capstone-project)
+
 ### 📌 [Telco Customer Churn Prediction](https://github.com/BrianRono7/Phase_3_Project)
 > A machine learning project to predict customer churn using classification models (Logistic Regression, Random Forest, XGBoost). Includes EDA, preprocessing, model evaluation, and deployment via Streamlit.
 
@@ -46,8 +50,6 @@ Data Scientist | Machine Learning Enthusiast | Deep Learning Explorer | Passiona
 ---
 
 ## 🔗 Let's Connect
-
 - 💼 [LinkedIn](https://www.linkedin.com/in/brian-rono)
 - 📬 [Email](engbriankrono@gmail.com)
 - 🌐 [Portfolio Website](https://your-website.com)
-
