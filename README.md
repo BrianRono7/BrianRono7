@@ -33,7 +33,7 @@ Data Scientist | Machine Learning Enthusiast | Deep Learning Explorer | Passiona
 ---
 
 ## 🌍 AI for Social Good
-### ☁️ [Cloud Kids Curriculum - AI for Youth](https://github.com/your-username/cloud-kids-curriculum)
+### ☁️ [Cloud Kids Curriculum - AI for Youth](https://cloudkids.netlify.app/)
 > A project-based AI learning curriculum for African youth to develop digital economy skills early. Includes basics of coding, ML, and ethical AI.
 
 ---
