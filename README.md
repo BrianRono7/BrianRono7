@@ -19,14 +19,15 @@ Data Scientist | Machine Learning Enthusiast | Deep Learning Explorer | Passiona
 > **MavunoSasa** is a predictive platform that empowers farmers with early warnings on food price spikes, enabling smarter decisions, timely interventions, and improved food security in Africa.  
 > **GitHub Repository:** [Capstone Project](https://github.com/BrianRono7/Capstone-project)
 
+### 💰 [Money Manager (Personal Finance Insights)](https://testaaisacco.streamlit.app/)
+> Kindly check out this ML classifier model. Simply upload the Money Manager CSV file and let it perform the classification, generating insightful visuals for you.  
+> Please let me know if you have any ideas that we can implement using machine learning or deep learning.
+
 ### 📌 [Telco Customer Churn Prediction](https://github.com/BrianRono7/Phase_3_Project)
 > A machine learning project to predict customer churn using classification models (Logistic Regression, Random Forest, XGBoost). Includes EDA, preprocessing, model evaluation, and deployment via Streamlit.
 
 ### 🎥 [MovieLens Recommendation System](https://github.com/BrianRono7/Phase_4_Project)
 > Built collaborative filtering and content-based filtering systems using the MovieLens dataset. Includes SVD and cosine similarity methods.
-
-### 💰 [Money Manager (Personal Finance Insights)](https://github.com/your-username/money-manager-insights)
-> An analytics dashboard using Streamlit and ML to generate insights from personal finance data. Includes unsupervised learning to identify spending clusters.
 
 ### 🌤️ [Weather Forecast with LSTM](https://github.com/your-username/weather-lstm)
 > Time series forecasting using deep learning (LSTM) on historical weather data. Includes hyperparameter tuning and visualizations.
